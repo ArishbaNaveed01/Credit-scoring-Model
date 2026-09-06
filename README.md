@@ -1,18 +1,15 @@
 
-# Objective
-Predict whether a person is **creditworthy** (good credit) or **not creditworthy**
-(bad credit) based on their financial history — a simple classification problem.
+Predict whether a person is *creditworthy*  or *not creditworthy*
+based on their financial history.
 
-A realistic **sample dataset of 1,000 people** is generated inside the script itself
+A realistic *sample dataset of 1,000 people* is generated inside the script itself
 (no external file needed), using simple, transparent rules based on real-world
-credit factors. Features include:
+credit factors.
 
-
-
-**Top predictors of creditworthiness:** payment history score, debt-to-income ratio,
+*Top predictors of creditworthiness:* payment history score, debt-to-income ratio,
 and years of employment — matching what real-world credit scoring relies on.
 
-CodeAlpha_CreditScoring/
+
 ├── credit_scoring.py       
 ├── requirements.txt
 ├── README.md
