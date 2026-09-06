@@ -1,0 +1,17 @@
+CodeAlpha ML Internship - Task 1: Credit Scoring Model
+============================================================
+
+Dataset: 1000 people, 7 features (sample data)
+
+Model Comparison:
+
+              Model  Accuracy  Precision   Recall  F1-Score  ROC-AUC
+Logistic Regression     0.825   0.829268 0.879310  0.853556 0.896141
+      Decision Tree     0.795   0.800000 0.862069  0.829876 0.856014
+
+Best Model: Logistic Regression
+
+Top 3 Most Important Features:
+payment_history_score    0.410365
+debt_to_income           0.282138
+employment_years         0.231029
